@@ -1,0 +1,4 @@
+name: "Editor MZ Guide Starter"
+identifier: "editor-mz-guide-starter"
+type: 'python'
+build: false
