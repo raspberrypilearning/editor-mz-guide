@@ -4,11 +4,16 @@ description: A short description of the project
 listed: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: You will make
+  - title: What is an Astro Pi?
+  - title: Display an image
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
+    - engaged
+  - title: Sense a colour
     completion:
-      - external
+    - internal
+  - title: What next — more Astro Pi projects
+    completion:
+    - external
+
+
